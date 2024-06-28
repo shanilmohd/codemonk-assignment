@@ -8,4 +8,8 @@ You can run this project on Kaggle by clicking the link below:
 
 3. app.py: API for serving the model, developed using flask
 
-4. 
+4. fashion_classification_inference.ipynb: classification model with training script and inference script using tensorflow
+   You can run this project on Kaggle by clicking the link below:
+
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/mohamedshanil/fashion-classification)
+
