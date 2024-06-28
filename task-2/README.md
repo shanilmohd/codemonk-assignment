@@ -12,4 +12,6 @@ You can run this project on Kaggle by clicking the link below:
    You can run this project on Kaggle by clicking the link below:
 
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/mohamedshanil/fashion-classification)
+5. Link to the saved model: https://drive.google.com/file/d/1ORWVyiNM6U43281V2TF6KPnYsu6hoWGp/view?usp=sharing
+
 
